@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Maximize productivity and master your workflow effortlessly.",
+        "title": "Elevate Your Efficiency with Produ"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Maximize productivity and master your workflow effortlessly.",
+        "title": "Elevate Your Efficiency with Produ"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Maximize productivity and master your workflow effortlessly.",
+        "title": "Elevate Your Efficiency with Produ"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Maximize productivity and master your workflow effortlessly.",
+        "title": "Elevate Your Efficiency with Produ"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Maximize productivity and master your workflow effortlessly.",
+        "title": "Elevate Your Efficiency with Produ"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Maximize productivity and master your workflow effortlessly.",
+        "title": "Elevate Your Efficiency with Produ"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Maximize productivity and master your workflow effortlessly.",
+        "title": "Elevate Your Efficiency with Produ"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Maximize productivity and master your workflow effortlessly.",
+        "title": "Elevate Your Efficiency with Produ"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Maximize productivity and master your workflow effortlessly.",
+        "title": "Elevate Your Efficiency with Produ"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Efficiency with Produ",
+  "subtitle": "Maximize productivity and master your workflow effortlessly."
+}
